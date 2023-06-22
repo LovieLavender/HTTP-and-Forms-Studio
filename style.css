@@ -1,6 +1,17 @@
 body {
     background-color: darkorchid;
 }
-form-label {
-    color: white;
+form {
+    color: black;
+}
+ form {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+input {
+    font-size: 20px;
+    padding: 3px;
+    box-shadow: 8px 5px 5px yellow;
+    color: red;
 }
